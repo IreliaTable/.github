@@ -1,3 +1,3 @@
-#### [IreliaTable](https://elixirnote.github.io/elixir-web/) 🌈
+#### [IreliaTable](https://ireliatable.github.io/irelia-web/) 🌈
 
 ![elixirtable](/profile/guinsoo-ecosystem-irelia.png)
